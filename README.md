@@ -1,1 +1,1 @@
-RSACryptography DotNET Core veriosn 6 console app
+RSACryptography DotNET Core version 6 console application.
